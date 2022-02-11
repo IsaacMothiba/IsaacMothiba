@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsaacMothiba
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science skills
-- 💞️ I’m looking to collaborate on Data Science, Python development, 'Database development & normalization' projects
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning C#.Net and Angular development
+- 💞️ I’m looking to collaborate on C#.Net Backend projects
 - 📫 How to reach me maakeisaac3@gmail.com
 
 <!---
