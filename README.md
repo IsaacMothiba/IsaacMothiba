@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsaacMothiba
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning C#.Net and Angular development
-- 💞️ I’m looking to collaborate on C#.Net Backend projects
+- 👀 I’m a Junior Fullstack Applications Developer
+- 🌱 I currently develop in C# .Net && .NetCore, SQL and Angular Typescript
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me maakeisaac3@gmail.com
 
 <!---
